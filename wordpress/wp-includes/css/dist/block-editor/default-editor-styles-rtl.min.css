@@ -1,0 +1,11 @@
+: "Email",
+  "tokenizeCardChallengeMethodOnlineBanking": "Bank account",
+  "tokenizeCardChallengeMethodOutboundCall": "Phone call",
+  "tokenizeCardChallengeMethodSMS": "Text message",
+  "tokenizeCardCvvInvalidError": "Please verify your security code and try again.",
+  "tokenizeCardEnterCode": "Enter code",
+  "tokenizeCardEnterCodeStepTitle": "Let's get you verified",
+  "tokenizeCardEnterCvvStepDescription": "Your bank requires you to verify the CVV security code associated with your $1 ending in $2.",
+  "tokenizeCardErrorStepTitle": "Something went wrong",
+  "tokenizeCardFetchCodeError": "Your card issuer had an issue sending the code. Request another code or use a different verification method.",
+  "tokenizeCardFetchCodeErrorCustomerService": "Your card issue
